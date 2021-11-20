@@ -1,0 +1,7 @@
+E:\Practic\sample2\sample2.web\bin\Debug\net6.0\publish\sample2.web.exe
+E:\Practic\sample2\sample2.web\bin\Debug\net6.0\publish\appsettings.Development.json
+E:\Practic\sample2\sample2.web\bin\Debug\net6.0\publish\appsettings.json
+E:\Practic\sample2\sample2.web\bin\Debug\net6.0\publish\sample2.web.dll
+E:\Practic\sample2\sample2.web\bin\Debug\net6.0\publish\sample2.web.deps.json
+E:\Practic\sample2\sample2.web\bin\Debug\net6.0\publish\sample2.web.runtimeconfig.json
+E:\Practic\sample2\sample2.web\bin\Debug\net6.0\publish\sample2.web.pdb
